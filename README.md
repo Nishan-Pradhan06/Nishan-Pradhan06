@@ -1,3 +1,4 @@
+![logo](https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nishan Pradhan</h1>
 <h3 align="center">A passionate WEB/APP developer from Nepal.</h3>
 
