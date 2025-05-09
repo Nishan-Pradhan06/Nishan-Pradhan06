@@ -12,7 +12,8 @@
 <img align="right" alt="coding" width="350" src="https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/github.gif" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan-pradhan06&label=Profile%20views&color=0e75b6&style=flat" alt="nishan-pradhan06" /> </p>
 
-- 💼 I’m currently working as **Flutter Mobile App Developer (Freelancer) at [Saino Tech](https://www.sainotech.com/)** 
+- 💼 Currently **freelancing** as a **Flutter Mobile App Developer at [Saino Tech](https://www.sainotech.com/)** 
+- 💼 Also working as a **Flutter Mobile App Developer at [Lunar I.T. Solution Pvt. Ltd.](https://github.com/Lunar-IT-Solution)** 
 
 - 👨‍💻 All of my projects are available at [nishanpradhan.com.np](nishanpradhan.com.np)
 
